@@ -1,0 +1,792 @@
+
+> engineering-mgmt-backend@1.0.0 dev
+> nodemon src/app.js
+
+[33m[nodemon] 3.1.14[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): *.*[39m
+[33m[nodemon] watching extensions: js,mjs,cjs,json[39m
+[32m[nodemon] starting `node src/app.js`[39m
+[DEBUG] JWT_SECRET loaded: YES
+[DEBUG] DB_PASSWORD loaded: YES
+[DEBUG] About to authenticate database...
+数据库连接成功
+数据库模型检查完成
+[snapshot-scheduler] started, checks every 30 minutes
+[sync-scheduler] Starting sync scheduler...
+[sync-scheduler] Sync scheduler started with 3 jobs
+[sync-scheduler] Sync scheduler started
+[DEBUG] About to listen on port 3001
+服务器运行在端口 3001
+[snapshot-scheduler] 2026-05-20 skipped: 快照已存在
+[sync-scheduler] Monitoring sync tasks...
+[sync-scheduler] Monitoring sync tasks...
+[sync-scheduler] Monitoring sync tasks...
+[sync-scheduler] Monitoring sync tasks...
+[sync-scheduler] Monitoring sync tasks...
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+[DEBUG] JWT_SECRET loaded: YES
+[DEBUG] DB_PASSWORD loaded: YES
+[DEBUG] About to authenticate database...
+数据库连接成功
+数据库模型检查完成
+[snapshot-scheduler] started, checks every 30 minutes
+[sync-scheduler] Starting sync scheduler...
+[sync-scheduler] Sync scheduler started with 3 jobs
+[sync-scheduler] Sync scheduler started
+[DEBUG] About to listen on port 3001
+服务器错误: Error: listen EADDRINUSE: address already in use 0.0.0.0:3001
+    at Server.setupListenHandle [as _listen2] (node:net:1940:16)
+    at listenInCluster (node:net:1997:12)
+    at node:net:2206:7
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 3001
+}
+[snapshot-scheduler] 2026-05-20 skipped: 快照已存在
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+[DEBUG] JWT_SECRET loaded: YES
+[DEBUG] DB_PASSWORD loaded: YES
+[DEBUG] About to authenticate database...
+数据库连接成功
+数据库模型检查完成
+[snapshot-scheduler] started, checks every 30 minutes
+[sync-scheduler] Starting sync scheduler...
+[sync-scheduler] Sync scheduler started with 3 jobs
+[sync-scheduler] Sync scheduler started
+[DEBUG] About to listen on port 3001
+服务器错误: Error: listen EADDRINUSE: address already in use 0.0.0.0:3001
+    at Server.setupListenHandle [as _listen2] (node:net:1940:16)
+    at listenInCluster (node:net:1997:12)
+    at node:net:2206:7
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 3001
+}
+[snapshot-scheduler] 2026-05-20 skipped: 快照已存在
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+[DEBUG] JWT_SECRET loaded: YES
+[DEBUG] DB_PASSWORD loaded: YES
+[DEBUG] About to authenticate database...
+数据库连接成功
+数据库模型检查完成
+[snapshot-scheduler] started, checks every 30 minutes
+[sync-scheduler] Starting sync scheduler...
+[sync-scheduler] Sync scheduler started with 3 jobs
+[sync-scheduler] Sync scheduler started
+[DEBUG] About to listen on port 3001
+服务器错误: Error: listen EADDRINUSE: address already in use 0.0.0.0:3001
+    at Server.setupListenHandle [as _listen2] (node:net:1940:16)
+    at listenInCluster (node:net:1997:12)
+    at node:net:2206:7
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 3001
+}
+[snapshot-scheduler] 2026-05-20 skipped: 快照已存在
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+[DEBUG] JWT_SECRET loaded: YES
+[DEBUG] DB_PASSWORD loaded: YES
+[DEBUG] About to authenticate database...
+数据库连接成功
+数据库模型检查完成
+[snapshot-scheduler] started, checks every 30 minutes
+[sync-scheduler] Starting sync scheduler...
+[sync-scheduler] Sync scheduler started with 3 jobs
+[sync-scheduler] Sync scheduler started
+[DEBUG] About to listen on port 3001
+服务器错误: Error: listen EADDRINUSE: address already in use 0.0.0.0:3001
+    at Server.setupListenHandle [as _listen2] (node:net:1940:16)
+    at listenInCluster (node:net:1997:12)
+    at node:net:2206:7
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 3001
+}
+[snapshot-scheduler] 2026-05-20 skipped: 快照已存在
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+[DEBUG] JWT_SECRET loaded: YES
+[DEBUG] DB_PASSWORD loaded: YES
+[DEBUG] About to authenticate database...
+数据库连接成功
+数据库模型检查完成
+[snapshot-scheduler] started, checks every 30 minutes
+[sync-scheduler] Starting sync scheduler...
+[sync-scheduler] Sync scheduler started with 3 jobs
+[sync-scheduler] Sync scheduler started
+[DEBUG] About to listen on port 3001
+服务器错误: Error: listen EADDRINUSE: address already in use 0.0.0.0:3001
+    at Server.setupListenHandle [as _listen2] (node:net:1940:16)
+    at listenInCluster (node:net:1997:12)
+    at node:net:2206:7
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 3001
+}
+[snapshot-scheduler] 2026-05-20 skipped: 快照已存在
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+[DEBUG] JWT_SECRET loaded: YES
+[DEBUG] DB_PASSWORD loaded: YES
+[DEBUG] About to authenticate database...
+数据库连接成功
+数据库模型检查完成
+[snapshot-scheduler] started, checks every 30 minutes
+[sync-scheduler] Starting sync scheduler...
+[sync-scheduler] Sync scheduler started with 3 jobs
+[sync-scheduler] Sync scheduler started
+[DEBUG] About to listen on port 3001
+服务器错误: Error: listen EADDRINUSE: address already in use 0.0.0.0:3001
+    at Server.setupListenHandle [as _listen2] (node:net:1940:16)
+    at listenInCluster (node:net:1997:12)
+    at node:net:2206:7
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 3001
+}
+[snapshot-scheduler] 2026-05-20 skipped: 快照已存在
+[sync-scheduler] Monitoring sync tasks...
+[sync-scheduler] Running incremental sync job...
+[sync-scheduler] Incremental sync failed: Unknown column 'Employee.updated_at' in 'field list'
+[sync-scheduler ALERT] 增量同步失败: Unknown column 'Employee.updated_at' in 'field list'
+[sync-scheduler] Alert sent to 3 admin users: 增量同步失败
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+[DEBUG] JWT_SECRET loaded: YES
+[DEBUG] DB_PASSWORD loaded: YES
+[DEBUG] About to authenticate database...
+数据库连接成功
+数据库模型检查完成
+[snapshot-scheduler] started, checks every 30 minutes
+[sync-scheduler] Starting sync scheduler...
+[sync-scheduler] Sync scheduler started with 3 jobs
+[sync-scheduler] Sync scheduler started
+[DEBUG] About to listen on port 3001
+服务器错误: Error: listen EADDRINUSE: address already in use 0.0.0.0:3001
+    at Server.setupListenHandle [as _listen2] (node:net:1940:16)
+    at listenInCluster (node:net:1997:12)
+    at node:net:2206:7
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 3001
+}
+[snapshot-scheduler] 2026-05-20 skipped: 快照已存在
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+[DEBUG] JWT_SECRET loaded: YES
+[DEBUG] DB_PASSWORD loaded: YES
+[DEBUG] About to authenticate database...
+数据库连接成功
+数据库模型检查完成
+[snapshot-scheduler] started, checks every 30 minutes
+[sync-scheduler] Starting sync scheduler...
+[sync-scheduler] Sync scheduler started with 3 jobs
+[sync-scheduler] Sync scheduler started
+[DEBUG] About to listen on port 3001
+服务器运行在端口 3001
+[snapshot-scheduler] 2026-05-20 skipped: 快照已存在
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+[DEBUG] JWT_SECRET loaded: YES
+[DEBUG] DB_PASSWORD loaded: YES
+[DEBUG] About to authenticate database...
+数据库连接成功
+数据库模型检查完成
+[snapshot-scheduler] started, checks every 30 minutes
+[sync-scheduler] Starting sync scheduler...
+[sync-scheduler] Sync scheduler started with 3 jobs
+[sync-scheduler] Sync scheduler started
+[DEBUG] About to listen on port 3001
+服务器错误: Error: listen EADDRINUSE: address already in use 0.0.0.0:3001
+    at Server.setupListenHandle [as _listen2] (node:net:1940:16)
+    at listenInCluster (node:net:1997:12)
+    at node:net:2206:7
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 3001
+}
+[snapshot-scheduler] 2026-05-20 skipped: 快照已存在
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+[DEBUG] JWT_SECRET loaded: YES
+[DEBUG] DB_PASSWORD loaded: YES
+[DEBUG] About to authenticate database...
+数据库连接成功
+数据库模型检查完成
+[snapshot-scheduler] started, checks every 30 minutes
+[sync-scheduler] Starting sync scheduler...
+[sync-scheduler] Sync scheduler started with 3 jobs
+[sync-scheduler] Sync scheduler started
+[DEBUG] About to listen on port 3001
+服务器运行在端口 3001
+[snapshot-scheduler] 2026-05-20 skipped: 快照已存在
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+[DEBUG] JWT_SECRET loaded: YES
+[DEBUG] DB_PASSWORD loaded: YES
+[DEBUG] About to authenticate database...
+数据库连接成功
+数据库模型检查完成
+[snapshot-scheduler] started, checks every 30 minutes
+[sync-scheduler] Starting sync scheduler...
+[sync-scheduler] Sync scheduler started with 3 jobs
+[sync-scheduler] Sync scheduler started
+[DEBUG] About to listen on port 3001
+服务器错误: Error: listen EADDRINUSE: address already in use 0.0.0.0:3001
+    at Server.setupListenHandle [as _listen2] (node:net:1940:16)
+    at listenInCluster (node:net:1997:12)
+    at node:net:2206:7
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 3001
+}
+[snapshot-scheduler] 2026-05-20 skipped: 快照已存在
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+[DEBUG] JWT_SECRET loaded: YES
+[DEBUG] DB_PASSWORD loaded: YES
+[DEBUG] About to authenticate database...
+数据库连接成功
+数据库模型检查完成
+[snapshot-scheduler] started, checks every 30 minutes
+[sync-scheduler] Starting sync scheduler...
+[sync-scheduler] Sync scheduler started with 3 jobs
+[sync-scheduler] Sync scheduler started
+[DEBUG] About to listen on port 3001
+服务器错误: Error: listen EADDRINUSE: address already in use 0.0.0.0:3001
+    at Server.setupListenHandle [as _listen2] (node:net:1940:16)
+    at listenInCluster (node:net:1997:12)
+    at node:net:2206:7
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 3001
+}
+[snapshot-scheduler] 2026-05-20 skipped: 快照已存在
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+[DEBUG] JWT_SECRET loaded: YES
+[DEBUG] DB_PASSWORD loaded: YES
+[DEBUG] About to authenticate database...
+数据库连接成功
+数据库模型检查完成
+[snapshot-scheduler] started, checks every 30 minutes
+[sync-scheduler] Starting sync scheduler...
+[sync-scheduler] Sync scheduler started with 3 jobs
+[sync-scheduler] Sync scheduler started
+[DEBUG] About to listen on port 3001
+服务器错误: Error: listen EADDRINUSE: address already in use 0.0.0.0:3001
+    at Server.setupListenHandle [as _listen2] (node:net:1940:16)
+    at listenInCluster (node:net:1997:12)
+    at node:net:2206:7
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 3001
+}
+[snapshot-scheduler] 2026-05-20 skipped: 快照已存在
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+[DEBUG] JWT_SECRET loaded: YES
+[DEBUG] DB_PASSWORD loaded: YES
+[DEBUG] About to authenticate database...
+数据库连接成功
+数据库模型检查完成
+[snapshot-scheduler] started, checks every 30 minutes
+[sync-scheduler] Starting sync scheduler...
+[sync-scheduler] Sync scheduler started with 3 jobs
+[sync-scheduler] Sync scheduler started
+[DEBUG] About to listen on port 3001
+服务器运行在端口 3001
+[snapshot-scheduler] 2026-05-20 skipped: 快照已存在
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+[DEBUG] JWT_SECRET loaded: YES
+[DEBUG] DB_PASSWORD loaded: YES
+[DEBUG] About to authenticate database...
+数据库连接成功
+数据库模型检查完成
+[snapshot-scheduler] started, checks every 30 minutes
+[sync-scheduler] Starting sync scheduler...
+[sync-scheduler] Sync scheduler started with 3 jobs
+[sync-scheduler] Sync scheduler started
+[DEBUG] About to listen on port 3001
+服务器错误: Error: listen EADDRINUSE: address already in use 0.0.0.0:3001
+    at Server.setupListenHandle [as _listen2] (node:net:1940:16)
+    at listenInCluster (node:net:1997:12)
+    at node:net:2206:7
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 3001
+}
+[snapshot-scheduler] 2026-05-20 skipped: 快照已存在
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+[DEBUG] JWT_SECRET loaded: YES
+[DEBUG] DB_PASSWORD loaded: YES
+[DEBUG] About to authenticate database...
+数据库连接成功
+数据库模型检查完成
+[snapshot-scheduler] started, checks every 30 minutes
+[sync-scheduler] Starting sync scheduler...
+[sync-scheduler] Sync scheduler started with 3 jobs
+[sync-scheduler] Sync scheduler started
+[DEBUG] About to listen on port 3001
+服务器运行在端口 3001
+[snapshot-scheduler] 2026-05-20 skipped: 快照已存在
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+[DEBUG] JWT_SECRET loaded: YES
+[DEBUG] DB_PASSWORD loaded: YES
+[DEBUG] About to authenticate database...
+数据库连接成功
+数据库模型检查完成
+[snapshot-scheduler] started, checks every 30 minutes
+[sync-scheduler] Starting sync scheduler...
+[sync-scheduler] Sync scheduler started with 3 jobs
+[sync-scheduler] Sync scheduler started
+[DEBUG] About to listen on port 3001
+服务器错误: Error: listen EADDRINUSE: address already in use 0.0.0.0:3001
+    at Server.setupListenHandle [as _listen2] (node:net:1940:16)
+    at listenInCluster (node:net:1997:12)
+    at node:net:2206:7
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 3001
+}
+[snapshot-scheduler] 2026-05-20 skipped: 快照已存在
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+[DEBUG] JWT_SECRET loaded: YES
+[DEBUG] DB_PASSWORD loaded: YES
+[DEBUG] About to authenticate database...
+数据库连接成功
+数据库模型检查完成
+[snapshot-scheduler] started, checks every 30 minutes
+[sync-scheduler] Starting sync scheduler...
+[sync-scheduler] Sync scheduler started with 3 jobs
+[sync-scheduler] Sync scheduler started
+[DEBUG] About to listen on port 3001
+服务器运行在端口 3001
+[snapshot-scheduler] 2026-05-20 skipped: 快照已存在
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+[DEBUG] JWT_SECRET loaded: YES
+[DEBUG] DB_PASSWORD loaded: YES
+[DEBUG] About to authenticate database...
+数据库连接成功
+数据库模型检查完成
+[snapshot-scheduler] started, checks every 30 minutes
+[sync-scheduler] Starting sync scheduler...
+[sync-scheduler] Sync scheduler started with 3 jobs
+[sync-scheduler] Sync scheduler started
+[DEBUG] About to listen on port 3001
+服务器运行在端口 3001
+[snapshot-scheduler] 2026-05-20 skipped: 快照已存在
+[sync-scheduler] Monitoring sync tasks...
+[sync-scheduler] Monitoring sync tasks...
+[sync-scheduler] Monitoring sync tasks...
+[sync-scheduler] Monitoring sync tasks...
+[sync-scheduler] Monitoring sync tasks...
+[sync-scheduler] Running incremental sync job...
+[sync-scheduler] Monitoring sync tasks...
+[sync-scheduler] Incremental sync failed: Unknown column 'Employee.updated_at' in 'field list'
+[sync-scheduler ALERT] 增量同步失败: Unknown column 'Employee.updated_at' in 'field list'
+[sync-scheduler] Alert sent to 3 admin users: 增量同步失败
+[sync-scheduler] Monitoring sync tasks...
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 [sync-scheduler] Monitoring sync tasks...
+[sync-scheduler] Monitoring sync tasks...
+[sync-scheduler] Monitoring sync tasks...
+[sync-scheduler] Monitoring sync tasks...
+[sync-scheduler] Monitoring sync tasks...
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+[DEBUG] JWT_SECRET loaded: YES
+[DEBUG] DB_PASSWORD loaded: YES
+[DEBUG] About to authenticate database...
+数据库连接成功
+数据库模型检查完成
+[snapshot-scheduler] started, checks every 30 minutes
+[sync-scheduler] Starting sync scheduler...
+[sync-scheduler] Sync scheduler started with 3 jobs
+[sync-scheduler] Sync scheduler started
+[DEBUG] About to listen on port 3001
+服务器运行在端口 3001
+[snapshot-scheduler] 2026-05-20 skipped: 快照已存在
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+[DEBUG] JWT_SECRET loaded: YES
+[DEBUG] DB_PASSWORD loaded: YES
+[DEBUG] About to authenticate database...
+数据库连接成功
+数据库模型检查完成
+[snapshot-scheduler] started, checks every 30 minutes
+[sync-scheduler] Starting sync scheduler...
+[sync-scheduler] Sync scheduler started with 3 jobs
+[sync-scheduler] Sync scheduler started
+[DEBUG] About to listen on port 3001
+服务器运行在端口 3001
+[snapshot-scheduler] 2026-05-20 skipped: 快照已存在
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+[DEBUG] JWT_SECRET loaded: YES
+[DEBUG] DB_PASSWORD loaded: YES
+[DEBUG] About to authenticate database...
+数据库连接成功
+数据库模型检查完成
+[snapshot-scheduler] started, checks every 30 minutes
+[sync-scheduler] Starting sync scheduler...
+[sync-scheduler] Sync scheduler started with 3 jobs
+[sync-scheduler] Sync scheduler started
+[DEBUG] About to listen on port 3001
+服务器运行在端口 3001
+[snapshot-scheduler] 2026-05-20 skipped: 快照已存在
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+[DEBUG] JWT_SECRET loaded: YES
+[DEBUG] DB_PASSWORD loaded: YES
+[DEBUG] About to authenticate database...
+数据库连接成功
+数据库模型检查完成
+[snapshot-scheduler] started, checks every 30 minutes
+[sync-scheduler] Starting sync scheduler...
+[sync-scheduler] Sync scheduler started with 3 jobs
+[sync-scheduler] Sync scheduler started
+[DEBUG] About to listen on port 3001
+服务器运行在端口 3001
+[snapshot-scheduler] 2026-05-20 skipped: 快照已存在
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+[DEBUG] JWT_SECRET loaded: YES
+[DEBUG] DB_PASSWORD loaded: YES
+[DEBUG] About to authenticate database...
+数据库连接成功
+数据库模型检查完成
+[snapshot-scheduler] started, checks every 30 minutes
+[sync-scheduler] Starting sync scheduler...
+[sync-scheduler] Sync scheduler started with 3 jobs
+[sync-scheduler] Sync scheduler started
+[DEBUG] About to listen on port 3001
+服务器运行在端口 3001
+[snapshot-scheduler] 2026-05-20 skipped: 快照已存在
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+[DEBUG] JWT_SECRET loaded: YES
+[DEBUG] DB_PASSWORD loaded: YES
+[DEBUG] About to authenticate database...
+数据库连接成功
+数据库模型检查完成
+[snapshot-scheduler] started, checks every 30 minutes
+[sync-scheduler] Starting sync scheduler...
+[sync-scheduler] Sync scheduler started with 3 jobs
+[sync-scheduler] Sync scheduler started
+[DEBUG] About to listen on port 3001
+服务器运行在端口 3001
+[snapshot-scheduler] 2026-05-20 skipped: 快照已存在
+[sync-scheduler] Monitoring sync tasks...
+[sync-scheduler] Running incremental sync job...
+[sync-scheduler] Incremental sync failed: Unknown column 'Employee.updated_at' in 'field list'
+[sync-scheduler ALERT] 增量同步失败: Unknown column 'Employee.updated_at' in 'field list'
+[sync-scheduler] Alert sent to 3 admin users: 增量同步失败
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+[DEBUG] JWT_SECRET loaded: YES
+[DEBUG] DB_PASSWORD loaded: YES
+[DEBUG] About to authenticate database...
+数据库连接成功
+数据库模型检查完成
+[snapshot-scheduler] started, checks every 30 minutes
+[sync-scheduler] Starting sync scheduler...
+[sync-scheduler] Sync scheduler started with 3 jobs
+[sync-scheduler] Sync scheduler started
+[DEBUG] About to listen on port 3001
+服务器运行在端口 3001
+[snapshot-scheduler] 2026-05-20 skipped: 快照已存在
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+[DEBUG] JWT_SECRET loaded: YES
+[DEBUG] DB_PASSWORD loaded: YES
+[DEBUG] About to authenticate database...
+数据库连接成功
+数据库模型检查完成
+[snapshot-scheduler] started, checks every 30 minutes
+[sync-scheduler] Starting sync scheduler...
+[sync-scheduler] Sync scheduler started with 3 jobs
+[sync-scheduler] Sync scheduler started
+[DEBUG] About to listen on port 3001
+服务器错误: Error: listen EADDRINUSE: address already in use 0.0.0.0:3001
+    at Server.setupListenHandle [as _listen2] (node:net:1940:16)
+    at listenInCluster (node:net:1997:12)
+    at node:net:2206:7
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 3001
+}
+[snapshot-scheduler] 2026-05-20 skipped: 快照已存在
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+[DEBUG] JWT_SECRET loaded: YES
+[DEBUG] DB_PASSWORD loaded: YES
+[DEBUG] About to authenticate database...
+数据库连接成功
+数据库模型检查完成
+[snapshot-scheduler] started, checks every 30 minutes
+[sync-scheduler] Starting sync scheduler...
+[sync-scheduler] Sync scheduler started with 3 jobs
+[sync-scheduler] Sync scheduler started
+[DEBUG] About to listen on port 3001
+服务器运行在端口 3001
+[snapshot-scheduler] 2026-05-20 skipped: 快照已存在
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+[DEBUG] JWT_SECRET loaded: YES
+[DEBUG] DB_PASSWORD loaded: YES
+[DEBUG] About to authenticate database...
+数据库连接成功
+数据库模型检查完成
+[snapshot-scheduler] started, checks every 30 minutes
+[sync-scheduler] Starting sync scheduler...
+[sync-scheduler] Sync scheduler started with 3 jobs
+[sync-scheduler] Sync scheduler started
+[DEBUG] About to listen on port 3001
+服务器错误: Error: listen EADDRINUSE: address already in use 0.0.0.0:3001
+    at Server.setupListenHandle [as _listen2] (node:net:1940:16)
+    at listenInCluster (node:net:1997:12)
+    at node:net:2206:7
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 3001
+}
+[snapshot-scheduler] 2026-05-20 skipped: 快照已存在
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+[DEBUG] JWT_SECRET loaded: YES
+[DEBUG] DB_PASSWORD loaded: YES
+[DEBUG] About to authenticate database...
+数据库连接成功
+数据库模型检查完成
+[snapshot-scheduler] started, checks every 30 minutes
+[sync-scheduler] Starting sync scheduler...
+[sync-scheduler] Sync scheduler started with 3 jobs
+[sync-scheduler] Sync scheduler started
+[DEBUG] About to listen on port 3001
+服务器运行在端口 3001
+[snapshot-scheduler] 2026-05-20 skipped: 快照已存在
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+[DEBUG] JWT_SECRET loaded: YES
+[DEBUG] DB_PASSWORD loaded: YES
+[DEBUG] About to authenticate database...
+数据库连接成功
+数据库模型检查完成
+[snapshot-scheduler] started, checks every 30 minutes
+[sync-scheduler] Starting sync scheduler...
+[sync-scheduler] Sync scheduler started with 3 jobs
+[sync-scheduler] Sync scheduler started
+[DEBUG] About to listen on port 3001
+服务器运行在端口 3001
+[snapshot-scheduler] 2026-05-20 skipped: 快照已存在
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+[DEBUG] JWT_SECRET loaded: YES
+[DEBUG] DB_PASSWORD loaded: YES
+[DEBUG] About to authenticate database...
+数据库连接成功
+数据库模型检查完成
+[snapshot-scheduler] started, checks every 30 minutes
+[sync-scheduler] Starting sync scheduler...
+[sync-scheduler] Sync scheduler started with 3 jobs
+[sync-scheduler] Sync scheduler started
+[DEBUG] About to listen on port 3001
+服务器运行在端口 3001
+[snapshot-scheduler] 2026-05-20 skipped: 快照已存在
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+[DEBUG] JWT_SECRET loaded: YES
+[DEBUG] DB_PASSWORD loaded: YES
+[DEBUG] About to authenticate database...
+数据库连接成功
+数据库模型检查完成
+[snapshot-scheduler] started, checks every 30 minutes
+[sync-scheduler] Starting sync scheduler...
+[sync-scheduler] Sync scheduler started with 3 jobs
+[sync-scheduler] Sync scheduler started
+[DEBUG] About to listen on port 3001
+服务器错误: Error: listen EADDRINUSE: address already in use 0.0.0.0:3001
+    at Server.setupListenHandle [as _listen2] (node:net:1940:16)
+    at listenInCluster (node:net:1997:12)
+    at node:net:2206:7
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 3001
+}
+[snapshot-scheduler] 2026-05-20 skipped: 快照已存在
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+[DEBUG] JWT_SECRET loaded: YES
+[DEBUG] DB_PASSWORD loaded: YES
+[DEBUG] About to authenticate database...
+数据库连接成功
+数据库模型检查完成
+[snapshot-scheduler] started, checks every 30 minutes
+[sync-scheduler] Starting sync scheduler...
+[sync-scheduler] Sync scheduler started with 3 jobs
+[sync-scheduler] Sync scheduler started
+[DEBUG] About to listen on port 3001
+服务器运行在端口 3001
+[snapshot-scheduler] 2026-05-20 skipped: 快照已存在
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+[DEBUG] JWT_SECRET loaded: YES
+[DEBUG] DB_PASSWORD loaded: YES
+[DEBUG] About to authenticate database...
+数据库连接成功
+数据库模型检查完成
+[snapshot-scheduler] started, checks every 30 minutes
+[sync-scheduler] Starting sync scheduler...
+[sync-scheduler] Sync scheduler started with 3 jobs
+[sync-scheduler] Sync scheduler started
+[DEBUG] About to listen on port 3001
+服务器错误: Error: listen EADDRINUSE: address already in use 0.0.0.0:3001
+    at Server.setupListenHandle [as _listen2] (node:net:1940:16)
+    at listenInCluster (node:net:1997:12)
+    at node:net:2206:7
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 3001
+}
+[snapshot-scheduler] 2026-05-20 skipped: 快照已存在
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+[DEBUG] JWT_SECRET loaded: YES
+[DEBUG] DB_PASSWORD loaded: YES
+[DEBUG] About to authenticate database...
+数据库连接成功
+数据库模型检查完成
+[snapshot-scheduler] started, checks every 30 minutes
+[sync-scheduler] Starting sync scheduler...
+[sync-scheduler] Sync scheduler started with 3 jobs
+[sync-scheduler] Sync scheduler started
+[DEBUG] About to listen on port 3001
+服务器运行在端口 3001
+[snapshot-scheduler] 2026-05-20 skipped: 快照已存在
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+[DEBUG] JWT_SECRET loaded: YES
+[DEBUG] DB_PASSWORD loaded: YES
+[DEBUG] About to authenticate database...
+数据库连接成功
+数据库模型检查完成
+[snapshot-scheduler] started, checks every 30 minutes
+[sync-scheduler] Starting sync scheduler...
+[sync-scheduler] Sync scheduler started with 3 jobs
+[sync-scheduler] Sync scheduler started
+[DEBUG] About to listen on port 3001
+服务器错误: Error: listen EADDRINUSE: address already in use 0.0.0.0:3001
+    at Server.setupListenHandle [as _listen2] (node:net:1940:16)
+    at listenInCluster (node:net:1997:12)
+    at node:net:2206:7
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 3001
+}
+[snapshot-scheduler] 2026-05-20 skipped: 快照已存在
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+[DEBUG] JWT_SECRET loaded: YES
+[DEBUG] DB_PASSWORD loaded: YES
+[DEBUG] About to authenticate database...
+数据库连接成功
+数据库模型检查完成
+[snapshot-scheduler] started, checks every 30 minutes
+[sync-scheduler] Starting sync scheduler...
+[sync-scheduler] Sync scheduler started with 3 jobs
+[sync-scheduler] Sync scheduler started
+[DEBUG] About to listen on port 3001
+服务器错误: Error: listen EADDRINUSE: address already in use 0.0.0.0:3001
+    at Server.setupListenHandle [as _listen2] (node:net:1940:16)
+    at listenInCluster (node:net:1997:12)
+    at node:net:2206:7
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 3001
+}
+[snapshot-scheduler] 2026-05-20 skipped: 快照已存在
+[sync-scheduler] Monitoring sync tasks...
+[sync-scheduler] Monitoring sync tasks...
+[sync-scheduler] Monitoring sync tasks...
+[sync-scheduler] Monitoring sync tasks...
+[sync-scheduler] Monitoring sync tasks...
+[sync-scheduler] Running incremental sync job...
+[sync-scheduler] Monitoring sync tasks...
+[sync-scheduler] Incremental sync failed: Unknown column 'Employee.updated_at' in 'field list'
+[sync-scheduler ALERT] 增量同步失败: Unknown column 'Employee.updated_at' in 'field list'
+[sync-scheduler] Alert sent to 3 admin users: 增量同步失败
+[sync-scheduler] Monitoring sync tasks...
